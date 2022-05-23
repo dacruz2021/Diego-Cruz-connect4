@@ -1,2 +1,2 @@
-# Diego-Cruz-connect4
+# MyReactApp
 Created with CodeSandbox
